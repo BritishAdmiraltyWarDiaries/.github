@@ -23,6 +23,6 @@ All the others come from the website of the <a href="https://www.royalnavy.mod.u
 
 <h2>Other Resources</h2>
 
-I have plans to upload the full pdfs to my website, <a href="https://navalhistorianatlarge.org">Hamatiti's Ever-Larger Doodles</a>, but this may not happen soon, as I am still pushing repos to this Organization.
+I have plans to upload the full pdfs to my website, <a href="https://hamatitisdoodles.org">Hamatiti's Ever-Larger Doodles</a>, but this may not happen soon, as I am still pushing repos to this Organization.
 
 To see my other work and repositories, see <a href="https://github.com/NavalHistorianAtLarge">my Github profile</a>.
