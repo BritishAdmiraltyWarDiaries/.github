@@ -26,3 +26,5 @@ All the others come from the website of the <a href="https://www.royalnavy.mod.u
 I have plans to upload the full pdfs to my website, <a href="https://hamatitisdoodles.org">Hamatiti's Ever-Larger Doodles</a>, but this may not happen soon, as I am still pushing repos to this Organization.
 
 To see my other work and repositories, see <a href="https://github.com/NavalHistorianAtLarge">my Github profile</a>.
+
+Edit: Full PDFs will be on Internet Archive. The diaries from <a href="https://archive.org/details/admiraltywardiary1939/1939-10to12-77715422/">1939</a> and <a href="https://archive.org/details/adm1940/1940-04and07-77719144/">1940</a> are up.
